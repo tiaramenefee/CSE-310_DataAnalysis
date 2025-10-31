@@ -72,7 +72,7 @@ def analyze_player_stats():
         plt.savefig(plot_filename)
         
         
-        # Created a Error catcher to help identify issues with the analsyis.
+        # Created a Error catcher to help identify issues with the data analsyis.
     except sqlite3.Error as e:
         print(f" Database error: {e}")
     except FileNotFoundError:
