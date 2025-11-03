@@ -46,12 +46,12 @@ Matplotlib
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* https://pandas.pydata.org/docs/user_guide/index.html
+* https://matplotlib.org/stable/users/index.html
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I would compare Dak to other players
+* Make the Graph a little more complex instead of Basic
+* Add more Data to the Database
