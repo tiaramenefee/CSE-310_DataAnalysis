@@ -11,10 +11,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 DB_FILE = os.path.join(script_dir, "cowboys_stats.db")
 
 def analyze_player_stats():
-    """
-    Connects to the SQLite database, analyzes player stats using Pandas,
-    and prints the results.
-    """
+    
     try:
         #Connect to the SQLite database
         conn = sqlite3.connect(DB_FILE)
